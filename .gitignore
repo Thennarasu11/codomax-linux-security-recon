@@ -1,0 +1,15 @@
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local captures and potentially sensitive evidence
+*.pcap
+*.pcapng
+.env
+*.log
+secrets/
+private-evidence/
